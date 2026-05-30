@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: ps3-downloader
+    runtime: php
+    plan: free
